@@ -45,5 +45,8 @@ A healthcare search platform helping patients find doctors, clinics, and therapi
 
 ### 🚧 Current Focus:
 - Developing the **MedicMundo Admin Dashboard** to manage users, appointments, and services with an intuitive UI for medical professionals.
+<img width="1886" height="911" alt="image" src="https://github.com/user-attachments/assets/7b527399-da9b-42ad-b91d-ed51cfaff589" />
+<img width="1892" height="788" alt="image" src="https://github.com/user-attachments/assets/6f1502bd-356c-4a56-9d15-9ff499bb7f00" />
+
 
 
