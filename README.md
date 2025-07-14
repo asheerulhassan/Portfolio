@@ -1,6 +1,12 @@
 # 🧠 Project Portfolio
 
-A curated list of professional projects developed across various industries, including e-learning, eCommerce, and healthcare.
+I am a dedicated and results-driven web developer with a strong background in building
+modern, responsive, and user-centric websites. With hands-on experience in WordPress,
+WooCommerce, and custom technologies like React and Laravel, I specialize in creating
+scalable web solutions tailored to meet client needs. I’m passionate about clean code,
+intuitive design, and delivering exceptional digital experiences that perform well and look
+great on every device.
+
 
 ---
 
